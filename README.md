@@ -1,4 +1,6 @@
-#Teste para desenvolvedor front-end 
+# Teste para desenvolvedor front-end 
+O Focus Concursos é uma empresa que oferece cursos online preparatórios para concurso público.
+> https://focusconcursos.com.br
 
 ## Instruções
 1. Faça um fork deste repositório;
@@ -25,24 +27,26 @@ A imagem a ser apresentada no quadro do produto pode ser externa, como do site l
 6. Apresente os produtos, ao clicar no submenu Listar no menu Produtos, buscando a partir do banco que criou no item anterior;
  
  
-## Considerações para a tarefa
+## Considerações para a teste
 1. Considere mobile-first;
 2. Utilize os seguintes breakpoints:
   - phone: 320px;
   - tablet: 768px;
   - desktop: 1024px;
-3. Utilize um pré-processador de sua preferência
+3. Utilize um pré-processador de estilos de sua preferência;
 4. Não utilize frameworks CSS;
 5. Não utilize frameworks JS;
 6. Utilize os recursos do ES6;
-7. Utilize programação funcional ou orientada a objetos para o cadastro e recuperação de dados do banco IndexedDB;
-8. Para ícones, utilize font-awesome;
+7. Utilize programação funcional ou orientada ao codificar JS;
+8. Para ícones, utilize [font-awesome](http://fontawesome.io);
+9. É permitido criar novos recursos que demonstrem suas habilidades de desenvolvedor;
  
-##O que iremos avaliar
+## O que iremos avaliar
 1. Semântica do código HTML;
 2. Uso do pré-processador de estilos;
 3. Componentização do CSS;
-4. Boas práticas de escrita de código (HTML, CSS e JS);
-5. Nível de conhecimento de JS;
-6. Nível de conhecimento de orientação a objetos;
-7. Apresentação/qualidade do código;
+4. Boas práticas de escrita de código;
+5. Nível de conhecimento de CSS;
+6. Nível de conhecimento de JS;
+7. Nível de conhecimento de orientação a objetos;
+8. Apresentação/qualidade do código;
