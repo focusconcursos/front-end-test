@@ -7,7 +7,7 @@ O Focus Concursos é uma empresa que oferece cursos online preparatórios para c
 2. Implemente os items descritos na próxima seção;
 3. Faça um pull request para este repositório;
 
-##O que esperamos que desenvolva
+## O que esperamos que desenvolva
 A tarefa consiste em apresentar uma página com produtos que estão num banco IndexedDB.
 
 Os produtos deste banco deverão ser cadastrados a partir de um formulário, como parte da tarefa, e depois listados na página.
@@ -23,7 +23,7 @@ A apresentação deverá alternar-se ao clicar no ícone Modo de exibição;
 A apresentação deverá alternar o tema ao clicar no ícone Tema;
 5. Implemente o cadastro de novos produtos, acessível pelo submenu Novo no menu Produtos, que devem armazenados no IndexedDB.
 O cadastro deve permitir Nome do produto, valor regular e valor promocional.
-A imagem a ser apresentada no quadro do produto pode ser externa, como do site lorempixel.com, ou outro de sua preferência;
+A imagem a ser apresentada no quadro do produto pode ser externa, como do site [lorempixel.com](lorempixel.com), ou outro de sua preferência;
 6. Apresente os produtos, ao clicar no submenu Listar no menu Produtos, buscando a partir do banco que criou no item anterior;
  
  
@@ -50,3 +50,5 @@ A imagem a ser apresentada no quadro do produto pode ser externa, como do site l
 6. Nível de conhecimento de JS;
 7. Nível de conhecimento de orientação a objetos;
 8. Apresentação/qualidade do código;
+
+\o/ Boa sorte!
