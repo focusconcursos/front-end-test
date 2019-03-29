@@ -5,7 +5,7 @@ O Focus Concursos é uma empresa que oferece cursos online preparatórios para c
 ## Instruções
 1. Faça um fork deste repositório;
 2. Implemente os items descritos na próxima seção;
-3. Faça um pull request para este repositório;
+3. Envie um email para luis@grupofocus.com.br com o assunto **Vaga front-end**;
 
 ## O que esperamos que desenvolva
 A tarefa consiste em apresentar uma página com produtos que estão num banco IndexedDB.
